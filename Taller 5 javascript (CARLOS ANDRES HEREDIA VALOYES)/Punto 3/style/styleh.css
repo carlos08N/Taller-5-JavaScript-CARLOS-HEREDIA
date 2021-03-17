@@ -1,0 +1,52 @@
+body{
+	width:800px;
+	height:auto;
+	border: 1px solid blue; 
+	margin:auto;
+}
+
+.titulos{
+	background-color:blue;
+	color:white;
+	margin:auto;
+	text-align:center;
+}
+
+#imagen{
+	margin:auto;
+	margin-left:30%;
+}
+ol{
+	margin:auto;
+}
+
+table{
+	width:100%;
+	border:1px solid black;
+	background-color:blue;
+	color:white;
+}
+
+tr{
+	border:1px solid black;
+}
+
+th{
+	border:1px solid black;
+}
+
+td{
+	border:1px solid black;
+}
+
+#th1{
+	text-align:center;
+}
+#boton{
+	margin:auto;
+	margin-left:45%;
+}
+
+#tab{
+	color:black;
+}
